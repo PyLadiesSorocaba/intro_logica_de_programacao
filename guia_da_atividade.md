@@ -31,6 +31,23 @@ façam uma atividade tão legal quanto foi a nossa.
 
 ## Materiais necessários
 
+### Tabuleiro
+- Papel cartão
+- Desenhos impressos
+- Tesoura
+- Cola
+- Régua
+- Canetas (normal e permanente)
+- Bonecos
+- Post-its
+
+### Apresentação da atividade principal
+- Lousa
+- Projetor
+
+### Outras atividades
+- Papéis coloridos
+
 ## Montagem dos tabuleiros
 
 ## Conceitos abordados
