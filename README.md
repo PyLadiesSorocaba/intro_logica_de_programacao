@@ -5,10 +5,7 @@
 1. Introdução e motivação
 2. Materiais necessários
 3. Montagem dos tabuleiros
-4. Conceitos abordados
 5. Exercícios
-6. Atividades complementares
-7. Dúvidas frequentes
 
 ## Introdução e motivação
 
